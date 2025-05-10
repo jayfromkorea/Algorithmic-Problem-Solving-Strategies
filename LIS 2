@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int Binary(int subject, int tgt){
+	int lo = 0;
+	int hi = subject.size() - 1;
+	int mid = 
+}
+
+int main() {
+	
+}
